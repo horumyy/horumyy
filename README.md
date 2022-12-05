@@ -3,7 +3,7 @@
 
 - 👀 I’m currently looking for a job: [LinkedIn](https://www.linkedin.com/in/jorgeplasenciaa/)
 
-- 🌱 I’m currently learning: **React, tailwind, Next.js**
+- 🌱 I’m currently learning: **Three.js/R3F**
 
 - 👯 I’m looking to collaborate on: **Frontend/React projects**
 
