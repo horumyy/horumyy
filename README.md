@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Plasencia</h1>
 <h3 align="center">A C.S. Student and frontend developer from Mexico!</h3>
 
-- 👀 I’m currently looking for a job: [LinkedIn](https://www.linkedin.com/in/jorgeplasenciaa/)
+- 🧡 I’m currently working @: [Lizza](https://lizzapp.com/)
 
 - 🌱 I’m currently learning: **Three.js/R3F**
 
