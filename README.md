@@ -33,7 +33,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1295335264&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=ddc0d3&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1295335264&redirect=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jorgepaj&icon=0&color=0)](https://visitcount.itsvg.in)
+![:JorgePAJ](https://count.getloli.com/get/@:JorgePAJ)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
