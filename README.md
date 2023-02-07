@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+- 🎨 Working towards becoming a creative developer
 
 - 🧡 I’m currently working @: [Lizza](https://lizzapp.com/)
 
