@@ -2,7 +2,7 @@
 
 - 🎨 Working towards becoming a creative developer
 
-- 🧡 I’m currently working @: [Lizza](https://lizzapp.com/)
+- 👀 I’m currently open for new work opportunities
 
 - 📚 I’m studying @: ITESM GDA
 
