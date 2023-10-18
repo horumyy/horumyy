@@ -2,7 +2,7 @@
 
 - 🎨 Working towards becoming a creative developer
 
-- 👀 I’m currently open for new work opportunities
+- 👀 I’m currently working @: HP Labs
 
 - 📚 I’m studying @: ITESM GDA
 
