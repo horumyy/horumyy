@@ -30,10 +30,6 @@
 # 💭 Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-# 🎧 Some Quality Tunes: 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1295335264&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=ddc0d3&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1295335264&redirect=true)
-
 ---
 ![:horumyy](https://count.getloli.com/get/@:horumyy)
 
