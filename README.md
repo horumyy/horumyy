@@ -2,15 +2,15 @@
 
 - 🎨 Working towards becoming a creative developer
 
-- 👀 I’m currently looking for new opportunities
+- 💼 I’m currently working @ [Pefai](https://www.pefai.com/home)
 
-- 💼 I'm the main frontend engineer @ lolasux
-
-- 📚 I’m studied @: ITESM GDA
+- 📚 I studied @: ITESM GDA
 
 - 🌱 I’m currently learning: **Three.js/R3F**
 
 - 👯 I’m looking to collaborate on: **Frontend/React projects**
+
+- 💖 I love to work with: **Next.js/Tailwind**
 
 - 📫 How to reach me: **hello@horumy.dev**
 
